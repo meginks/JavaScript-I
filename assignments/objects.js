@@ -107,8 +107,10 @@ console.log(antonietta.multiplyNums(3,4));
 const parent = {}
 
 // Log the parent object's name
+console.log();
 
 // Log the child's age
+console.log();
 
 // Log the name and age of the grandchild
 
